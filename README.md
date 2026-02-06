@@ -25,6 +25,7 @@ shop with product listings, customer reviews, and contact information.
 - HTML5
 - CSS3
 - Font Awesome Icons
+- Git & GitHub Pages
 
 ---
 
@@ -52,6 +53,14 @@ HTML and CSS skills and to understand website layout, design, and
 basic user experience concepts.
 
 ---
+
+## 🚧 Future Improvements
+
+- Add JavaScript for cart functionality
+- Improve form validation
+- Make website more interactive
+- Add backend support
+
 
 ## 🚀 How to Run the Project
 
